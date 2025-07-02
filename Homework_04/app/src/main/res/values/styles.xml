@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BtnStyle">
+        <item name="android:padding">15dp</item>
+        <item name="android:background">#068506</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+</resources>

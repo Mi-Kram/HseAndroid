@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework_08</string>
+    <string name="appwidget_text">Web Site</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="http">https://makse.site/GA</string>
+    <string name="name">Крамаренко Михаил Константинович\n234</string>
+    <string name="caption_not_required">Caption (not required)</string>
+    <string name="url">URL</string>
+</resources>
